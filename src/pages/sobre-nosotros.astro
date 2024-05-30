@@ -1,0 +1,119 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="Sobre Nosotros | KuroShi Tec" description="Conoce KuroShi Tec a fondo.">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="Sobre Nosotros"
+				tagline="Nos alegra que quieras conocernos un poco más antes de decidirte, permítenos demostrar nuestra transparencia."
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/ks-at-work.jpg"
+					alt="KuroShi Tec, tu aliado a la hora de digitalizar tus sueños."
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">¿Qué hay detrás de KuroShi Tec?</h2>
+				<div class="content">
+					<p>
+						Para responder esto... deberíamos preguntarlos: ¿por qué se crea KuroShi Tec? Si bien
+                        son dos preguntas distintas, están relacionadas entre sí. <a href="https://kuroshitec.com/">KuroShi Tec</a> se crea con la 
+                        intención de crear AUTÉNTICO software de calidad, que busque mejorar día a día, así
+                        como utilizar la tecnología más puntera y que mejor se adapta a cada situación.
+		   			</p>
+                <br/>       
+					<p>
+						Tras pasar por otras empresas del sector, grandes consultorías que ofrecen productos
+                        en plazos irreales y con equipos poco cualificados, decidimos plantarnos y decir BASTA.
+                        Queremos llevar el software de marca nacional a otro nivel, ofreciendo calidad,
+                        transparencia, y soluciones eficaces y ajustadas a cada caso.
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">¿Desde dónde trabajamos?</h2>
+				<div class="content">
+					<p>
+                        Aunque estamos ubicados en Castilla y Leon, España, como "principal centro de operaciones"
+                        , en <a href="https://kuroshitec.com/">KuroShi Tec</a> apostamos por la potencia de
+                        internet y las enormes posibilidades que nos da el trabajar remotamente. Por esto mismo,
+                        ¡no tenemos fronteras y llegamos allá donde se nos necesite!
+                    </p>
+				</div>
+			</section>
+			<!--section>
+				<h2 class="section-title">¿Quiénes están desarrollando tus sueños?</h2>
+				<div class="content">
+					<p>officia unde omnis</p>
+				</div>
+			</section-->
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
