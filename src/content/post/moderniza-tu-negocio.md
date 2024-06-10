@@ -1,7 +1,7 @@
 ---
 title: Moderniza Tu Negocio Con KuroShi Tec
 publishDate: 2024-06-10 11:00:00
-img: https://github.com/Inushin/kuroshitec/assets/57062736/97bed0f0-582d-43bf-9583-4e71e25a8d10
+img: https://github.com/Inushin/kuroshitec/assets/57062736/0a73bff9-5f9a-41d3-a799-7bd36fe20b50
 img_alt: Una empresa modernizada gana puntos en todos los sentidos
 description: |
   Descubre cómo modernizar tu negocio y mantenerte competitivo en la era digital con la ayuda de KuroShi Tec.
@@ -32,7 +32,7 @@ Mantenerse al día con las últimas tendencias tecnológicas te permite competir
 
 ## Pasos para Modernizar Tu Negocio
 
-![Digitaliza tu negocio con KuroShi Tec](https://github.com/Inushin/kuroshitec/assets/57062736/90c1276f-4dd7-4882-9ecc-b7e0a1d5dd85)
+![Digitaliza tu negocio con KuroShi Tec](https://github.com/Inushin/kuroshitec/assets/57062736/3a5871a1-667b-4820-8e94-5448ea67beed)
 
 ### 1. Evaluación Inicial
 
@@ -52,7 +52,7 @@ Una vez implementadas las nuevas tecnologías, es crucial monitorear su rendimie
 
 ## Conclusión
 
-![Da el salto al mundo digital con KuroShi Tec](https://github.com/Inushin/kuroshitec/assets/57062736/60c59528-98f2-4e5b-b8ab-f126ef85baa7)
+![Da el salto al mundo digital con KuroShi Tec](https://github.com/Inushin/kuroshitec/assets/57062736/e4547b9b-59ea-40c3-9362-cd1dbf80395e)
 
 Modernizar tu negocio es esencial para mantenerte competitivo y crecer en la era digital. Desde la mejora de la eficiencia hasta la optimización de la experiencia del cliente, los beneficios son innumerables. No esperes más y comienza hoy mismo tu camino hacia la modernización.
 
