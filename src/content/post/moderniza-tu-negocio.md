@@ -6,10 +6,9 @@ img_alt: Una empresa modernizada gana puntos en todos los sentidos
 description: |
   Descubre cómo modernizar tu negocio y mantenerte competitivo en la era digital con la ayuda de KuroShi Tec.
 tags:
-  - Fullstack
-  - Desarrollo Web
-  - Desarrollo Móvil
-  - Desarrollo PC
+  - Cercanía
+  - Profesionalidad
+  - Calidad
 ---
 
 # Moderniza tu Negocio: La Clave para el Éxito en la Era Digital
