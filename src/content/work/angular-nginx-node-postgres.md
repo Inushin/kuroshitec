@@ -6,7 +6,6 @@ img_alt: Docker + Angular 15 Boilerplate + Nginx + NodeJS (Sequelize) + PostgreS
 description: |
   Conjunto de tecnologías, desplegadas con Docker, para desplegar proyectos compuestos por Angular, Nginx como proxy, NodeJs, PostgreSQL y Sequelize.
 tags:
-  - Fullstack
   - Desarrollo Web
   - Desarrollo Móvil
 ---
