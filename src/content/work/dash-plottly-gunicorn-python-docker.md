@@ -7,9 +7,7 @@ description: |
   Conjunto de tecnologías, desplegadas con Docker, para ejecutar un servidor de python (GUnicorn), junto con Dash y Plottly para la monitorización gráfica de datos.
 tags:
   - Fullstack
-  - Desarrollo Web
-  - Desarrollo Móvil
-  - Desarrollo PC
+  - Desarrollo Web, Móvil y PC
 ---
 
 ## Tú decides cómo visualizar tus datos
