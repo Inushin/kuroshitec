@@ -6,7 +6,6 @@ img_alt: Logo de Ataman.
 description: |
   Desarrollamos una poderosa herramienta de control y gestión inteligente en tiempo real de activos.
 tags:
-  - Fullstack
   - Desarrollo Web
   - Desarrollo Móvil
 ---
