@@ -5,5 +5,9 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://kuroshitec.com/',
-  integrations: [sitemap()]
+  integrations: [sitemap()],
+  /*FOR REDIRECTS
+  redirects: {
+    'OLD_PATH': 'NEW_PATH'
+  }*/
 });
