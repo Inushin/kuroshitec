@@ -1,5 +1,5 @@
 ---
-title: WorkingTracker - EN DESARROLLO
+title: WorkingTracker
 publishDate: 2024-06-12 00:00:00
 img: /assets/working-tracker.webp
 img_alt: Working Tracker, controla tu jornada laboral.
