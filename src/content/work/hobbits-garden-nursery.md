@@ -10,7 +10,7 @@ tags:
   - Fullstack
 ---
 
-Como **Technical & Production Manager** en **Hobbit's Garden Nursery**, me encargo del desarrollo tecnológico del negocio, combinando software, infraestructura digital y optimización de procesos con las necesidades de producción y venta de un vivero especializado en suculentas.
+Como **Technical & Production Manager** en <a href="https://hobbitsgarden.es/">**Hobbit's Garden Nursery**</a>, me encargo del desarrollo tecnológico del negocio, combinando software, infraestructura digital y optimización de procesos con las necesidades de producción y venta de un vivero especializado en suculentas.
 
 En el ámbito informático, desarrollo y mantengo **soluciones web y herramientas internas** con **JavaScript, TypeScript y Node.js**. También gestiono bases de datos, APIs e integraciones con servicios de terceros, además de los servidores y entornos de despliegue que dan soporte a las operaciones digitales del vivero.
 
